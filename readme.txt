@@ -20,3 +20,10 @@ https://github.com/prettier/prettier-eslint-cli
 
 https://github.com/okonet/lint-staged
 https://github.com/typicode/husky
+
+---------------------
+Setup to project
+---------------------
+$ npm i --save-dev prettier-eslint-cli
+
+$ npm i --save-dev lint-staged husky 
