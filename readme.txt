@@ -5,7 +5,7 @@ Babel
 $ npm i babel-cli babel-core babel-preset-es2015 --save-dev
 $ npm i babel-preset-es2018 --save-dev
 $ npm i babel-preset-stage-3 --save-dev
-$ npm i babel-preset-env --save-dev.
+$ npm i babel-preset-env --save-dev
 
 ESLint
 ------------
